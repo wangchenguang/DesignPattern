@@ -1,4 +1,4 @@
-package com.wangchg.study;
+package com.wangchg.study.design.pattern;
 
 /**
  * Hello world!
